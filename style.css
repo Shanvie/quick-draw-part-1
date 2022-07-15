@@ -1,0 +1,8 @@
+body{
+	background-image: linear-gradient(to right top, #380E7C, #9B0074, #D93061, #FB744D,#FFB74B,#F9F871);
+	color: white;
+}
+#show_sketch{
+	float: right;
+	
+}
